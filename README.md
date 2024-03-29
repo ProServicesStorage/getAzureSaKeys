@@ -3,7 +3,7 @@ This script will get the storage account keys for each storage account in the sa
 
 ## Description
 
-This script will get the storage account keys for each storage account in the **sa_accounts.txt** file and export them to a CSV file `sa_keys.csv`.
+This script will get the storage account keys for each storage account in the `sa_accounts.txt` file and export them to a CSV file `sa_keys.csv`.
 
 ## Requirements
 
